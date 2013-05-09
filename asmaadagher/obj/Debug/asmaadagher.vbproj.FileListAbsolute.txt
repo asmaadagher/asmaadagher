@@ -1,0 +1,10 @@
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\bin\asmaadagher.dll
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\bin\asmaadagher.pdb
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\bin\asmaadagher.xml
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\asmaadagher.Resources.resources
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\asmaadagher.dll
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\asmaadagher.xml
+C:\Users\SAMSUNG\Documents\GitHub\asmaadagher\asmaadagher\obj\Debug\asmaadagher.pdb
